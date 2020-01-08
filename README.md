@@ -85,5 +85,3 @@ In this homework assignment, you will need to:
 * Include a README.md file that summarizes your assumptions and findings.
 
 * Submit the link to your GitHub project to Bootcamp Spot.
-
-##### © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
